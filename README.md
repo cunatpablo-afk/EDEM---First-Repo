@@ -31,14 +31,17 @@ Currently finishing a Master's in Big Data & Cloud Computing at EDEM.
 
 ### 🚀 Projects
 
-**[DATA-PROJECT1](https://github.com/JaviPlazaRosique/DATA-PROJECT1)** — Air quality alert system processing historical and real-time data, with interactive dashboards.
-`Python` `Airflow` `Kafka` `PostgreSQL` `dbt` `Flask`
+#### [UCV-Churn — Customer Churn Prediction](https://github.com/cunatpablo-afk/UCV-Churn)
 
-**[SafeChild](https://github.com/JaviPlazaRosique/Data_Project_2)** — Real-time child monitoring via GPS sensors with cloud storage and parent notifications.
-`Python` `GCP` `Dataflow` `BigQuery` `Terraform` `FastAPI` `Streamlit`
+An academic machine learning project using synthetic data from a fictional telecom company to estimate which customers are likely to leave the following month. My repository builds on the UCV-Churn course project and connects predictive modeling with customer retention decisions.
 
-**[Radar Processing](https://github.com/JaviPlazaRosique/radar_processing)** — Serverless event-driven pipeline to simulate and process traffic violations on GCP.
-`Python` `GCP` `Pub/Sub` `Dataflow` `BigQuery` `Terraform`
+- **Data preparation:** combine customer profiles, billing, network quality, support interactions and surveys into a monthly customer dataset, with reproducible cleaning and feature engineering steps.
+- **Modeling and evaluation:** explore the data and compare predictive models using temporal splits, with attention to class imbalance and preventing future information from leaking into training.
+- **Business application:** use the recommended logistic regression model to rank customers by churn risk and prioritize retention campaigns for the highest-risk groups.
+
+The repository includes exploratory notebooks, training scripts, evaluation reports and documented modeling decisions.
+
+`Python` `Jupyter` `Machine Learning` `Logistic Regression` `Feature Engineering`
 
 ---
 
