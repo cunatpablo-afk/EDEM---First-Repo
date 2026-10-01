@@ -52,6 +52,6 @@ Currently finishing a Master's in Big Data & Cloud Computing at EDEM.
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-javiplaza-blue?logo=linkedin)](https://www.linkedin.com/in/pablo-c-752876377/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZsX3DobCTtyuw%2FdCSkNbEg%3D%3D)
-[![Email](https://img.shields.io/badge/Email-j.plazarosique%40gmail.com-red?logo=gmail)](mailto:cunatpablo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-javiplazarosique.github.io-0077B6?logo=github)]()
+[![LinkedIn]()](https://www.linkedin.com/in/pablo-c-752876377/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZsX3DobCTtyuw%2FdCSkNbEg%3D%3D)
+[![Email]()](mailto:cunatpablo@gmail.com)
+[![Portfolio]()]()
